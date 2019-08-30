@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 git_remote=$1 #git repository path like https://github.com/chenjerry18/git_watch_python.git
 branch=$2 # branch name
